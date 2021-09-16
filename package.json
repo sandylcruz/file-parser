@@ -1,0 +1,13 @@
+{
+  "name": "file-parser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.1.0",
+    "mock-stdin": "^1.0.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}

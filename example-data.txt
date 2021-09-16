@@ -1,0 +1,22 @@
+/* Files */
+Batch: 99
+Description: Payroll for January
+==
+Transaction: 301
+Originator: 111222333 / 9991
+Recipient: 444555666 / 123456
+Type: Credit
+Amount: 10000
+==
+Comment: Payment for invoice 100
+Transaction: 302
+Originator: 111222333 / 9991
+Recipient: 123456789 / 55550
+Type: Credit
+Amount: 380100
+==
+Transaction: 305
+Originator: 111222333 / 9992
+Recipient: 444555666 / 8675309
+Type: Debit
+Amount: 999

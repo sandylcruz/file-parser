@@ -1,0 +1,7 @@
+#!/usr/bin/env node
+
+const fileParser = require('./src');
+
+fileParser().then((data) => {
+  console.log(data);
+});
